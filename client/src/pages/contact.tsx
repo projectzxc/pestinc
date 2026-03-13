@@ -74,7 +74,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-bold text-lg mb-1">Our Office</h4>
-                    <p className="text-muted-foreground">123 Pestco Blvd, Suite 100<br/>Metropolis, NY 10001</p>
+                    <p className="text-muted-foreground">1052 F Castillo Pasig<br/>Metro Manila, Philippines</p>
                   </div>
                 </div>
 
@@ -84,7 +84,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-bold text-lg mb-1">Phone</h4>
-                    <p className="text-muted-foreground">1-800-PEST-CONTROL<br/>(1-800-737-8266)</p>
+                    <p className="text-muted-foreground">0917 672 7378</p>
                   </div>
                 </div>
 
@@ -94,7 +94,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-bold text-lg mb-1">Email</h4>
-                    <p className="text-muted-foreground">info@pestco.com<br/>support@pestco.com</p>
+                    <p className="text-muted-foreground">pestcontrolcs.pestph@gmail.com</p>
                   </div>
                 </div>
 
@@ -104,7 +104,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-bold text-lg mb-1">Hours of Operation</h4>
-                    <p className="text-muted-foreground">Monday - Friday: 8:00 AM - 6:00 PM<br/>Saturday: 9:00 AM - 2:00 PM<br/>Emergency Service: 24/7</p>
+                    <p className="text-muted-foreground">Monday - Friday: 9:00 AM - 6:00 PM<br/>Saturday: 9:00 AM - 2:00 PM</p>
                   </div>
                 </div>
               </div>

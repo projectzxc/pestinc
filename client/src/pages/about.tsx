@@ -7,8 +7,8 @@ export default function About() {
     <div className="flex flex-col w-full">
       {/* about page hero team or clean environment */}
       <Hero 
-        title="About Pestco" 
-        description="Your trusted partner in creating safe, pest-free environments for homes and businesses since 2004."
+        title="About Pest Inc." 
+        description="Professional Quality Service"
         imageSrc="https://images.unsplash.com/photo-1542039989-130d2449a5b4?w=1920&h=1080&fit=crop"
       />
 
@@ -24,7 +24,7 @@ export default function About() {
               <h2 className="text-primary font-bold tracking-wider uppercase text-sm mb-3">Our Story</h2>
               <h3 className="text-4xl md:text-5xl font-bold mb-6">Built on Trust and Reliability</h3>
               <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-                Pestco was founded with a single mission: to provide the most effective, safe, and reliable pest control services in the region. Over the past two decades, we've grown from a small family operation into an industry leader, but our core values remain the same.
+                Pest Inc. was founded with a single mission: to provide the most effective, safe, and reliable pest control services in the region. Over the past two decades, we've grown from a small family operation into an industry leader, but our core values remain the same.
               </p>
               <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
                 We believe that a pest-free environment shouldn't come at the cost of your health or the ecosystem. That's why we continually invest in training and technology to deliver cutting-edge, environmentally responsible solutions.
@@ -58,7 +58,7 @@ export default function About() {
               <div className="absolute -bottom-8 -left-8 bg-white p-8 rounded-3xl shadow-xl max-w-xs border border-gray-100 hidden md:block">
                 <Target className="w-12 h-12 text-primary mb-4" />
                 <h4 className="font-bold text-xl mb-2">Our Mission</h4>
-                <p className="text-muted-foreground">To protect health, property, and the environment through superior pest management.</p>
+                <p className="text-muted-foreground">P.E.S.T inc. Is a team of dedicated, positive and successful professionals who constantly strive to conduct ourselves with the highest level of honesty, integrity and expertise. We work very hard at earning our clients’ trust and confidence through building relationships and delivering exceptional, consistent services.</p>
               </div>
             </motion.div>
           </div>
@@ -68,7 +68,7 @@ export default function About() {
       {/* Core Values */}
       <section className="py-24 bg-muted">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-3xl md:text-4xl font-bold mb-16">The Pestco Standards</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-16">The P.E.S.T. Inc Standards</h2>
           
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             {[

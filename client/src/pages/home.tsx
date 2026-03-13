@@ -50,10 +50,10 @@ export default function Home() {
       <section className="py-24 bg-background">
         <div className="container mx-auto px-4">
           <div className="text-center max-w-3xl mx-auto mb-16">
-            <h2 className="text-primary font-bold tracking-wider uppercase text-sm mb-3">Why Choose Pestco</h2>
+            <h2 className="text-primary font-bold tracking-wider uppercase text-sm mb-3">Why Choose P.E.S.T. Inc</h2>
             <h3 className="text-4xl md:text-5xl font-bold text-foreground mb-6">Expertise You Can Trust</h3>
             <p className="text-lg text-muted-foreground">
-              With over 20 years of experience, we've developed proven strategies to completely eliminate pests and prevent them from returning.
+              With over 10 years of experience, we've developed proven strategies to completely eliminate pests and prevent them from returning.
             </p>
           </div>
 
