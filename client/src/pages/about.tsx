@@ -9,7 +9,7 @@ export default function About() {
       <Hero 
         title="About Pest Inc." 
         description="Professional Quality Service"
-        imageSrc="https://images.unsplash.com/photo-1542039989-130d2449a5b4?w=1920&h=1080&fit=crop"
+        imageSrc="https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1920&h=1080&fit=crop&q=80"
       />
 
       <section className="py-24">
